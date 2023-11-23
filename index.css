@@ -1,0 +1,58 @@
+body{
+    background-image: url(ima.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.contenedor{
+width: 1500px;
+height: 600px;
+gap: 70px;
+display: flex;
+flex-wrap: wrap;
+margin-left: 150px;
+align-items: center;
+margin-left: 150px;
+}
+.caja1{
+    width: 300px;
+    height: 350px;
+    background-color:rgb(255, 255, 255);
+    margin-left: 60px;
+}
+.caja2{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 60px;
+}
+.caja3{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 60px;
+}
+.caja4{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 60px;
+}
+.caja5{
+    width: 300px;
+    height: 330px;
+    background-color:rgb(255, 255, 255);
+    margin-left: 60px;
+}
+.caja6{
+    width: 300px;
+    height: 330px;
+    background-color:rgb(255, 255, 255);
+    margin-left: 60px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+}
